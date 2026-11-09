@@ -1,0 +1,6 @@
+﻿old_path,new_path,status,note
+/about-us/,/studio/,301,Closest direct replacement
+/ru/about-us-rus/,/ru/studio/,301,Closest direct replacement
+/services/,,PENDING,Old page covers tattoo + piercing. Keep temporarily or map after Search Console export; do not redirect blindly.
+/ru/tattoo-courses-rus/,/ru/tattoo-courses/,301,Replace legacy localized course slug with permanent course URL
+/hy/tattoo-courses-am/,/hy/tattoo-courses/,301,Replace legacy localized course slug with permanent course URL

@@ -1,0 +1,17 @@
+{
+  "source": "studio14-github-v45.zip",
+  "version": "46",
+  "localized_pages": 33,
+  "tattoo_portfolio_photos": 9,
+  "piercing_portfolio_photos": 6,
+  "piercing_examples": 4,
+  "card_alignment": "Shared subgrid tracks per row",
+  "oral_heading": "Wrapping within its column",
+  "copy_revised": [
+    "tattoo",
+    "portfolio"
+  ],
+  "unrelated_main_copy_preserved": true,
+  "publicly_deployed": false,
+  "browser_checked": false
+}

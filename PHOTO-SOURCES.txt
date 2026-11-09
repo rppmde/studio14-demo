@@ -1,0 +1,40 @@
+Studio photography from the supplied archive, used in v42
+
+lounge: _DSF9357.jpg
+art-wall: _DSF9315.jpg
+memories: _DSF9548.jpg
+objects: _DSF9407.jpg
+exterior: _DSF9521.jpg
+art-gallery: _DSF9494.jpg
+tattoo-station: _DSF9434.jpg
+tattoo-session: _DSF9308.jpg
+
+Responsive 640 / 1440 variants are included where used.
+The original logo, artist portraits, and tattoo-removal examples are retained.
+Existing portfolio source: studio14byarthur.com/wp-content/uploads/2026/05/Design-sem-nome-scaled.webp
+Existing process source: studio14byarthur.com/wp-content/uploads/2026/06/A13I2937-1-scaled.webp
+Existing piercing source: studio14byarthur.com/wp-content/uploads/2026/05/A13I2376-scaled-e1778581077693.jpg
+Existing completed tattoo source: assets.particl.com/instagram%2F1124446%2F2025%2F01%2F18%2Fshort_code_DE9Ujrhzz2b%2Fdisplay_image.jpeg
+
+v43 additions
+Studio hero: supplied group instant photograph, original border preserved.
+preparation: _DSF9366.jpg
+materials: _DSF9328.jpg
+Guest carousel: all 12 images from Artists.zip, full poster proportions preserved. See GUEST-ARCHIVE.json.
+
+v44 additions
+home-atmosphere: _DSF9482.jpg
+booking-atmosphere: _DSF9528.jpg
+v44.1 entrance correction: original exterior _DSF9521.jpg restored on Home and Studio; CSS crop moved down to the doorway: Home 100% 85%, Studio 100% 92%. The unused entrance-front files remain in the package.
+Home Tattoo card: existing work-5.jpg, pending the later portfolio archive
+Bird removal comparison: image positions reversed at the user's instruction; captions unchanged.
+
+v45 additions
+Guest Spot design/preparation area: _DSF9345.jpg from the supplied archive. Responsive 640 / 1600 variants; color and content retained.
+Courses: existing tattoo-session (_DSF9308.jpg), reframed in CSS around Arthur working.
+
+V46: supplied tattoo Archive.zip and piercing Archive(1).zip.
+Tattoo selection: IMG_8520, 8514, 8513, 8510, 8516, 8522, 8512, 8519, 8523.
+Piercing portfolio: IMG_8525, 8533, 8531, 8526, 8528, 8527.
+Piercing service examples: Ear 8525; Nose 8526; Lip 8528; Other 8527.
+Responsive copies preserve photographs and visible watermarks; only resizing/compression applied.

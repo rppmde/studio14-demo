@@ -1,0 +1,32 @@
+[
+  {
+    "font": "Anton",
+    "cyrillic": false,
+    "armenian": false,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/Anton-Regular.ttf"
+  },
+  {
+    "font": "BigShoulders",
+    "cyrillic": false,
+    "armenian": false,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bigshoulders/BigShoulders%5Bopsz%2Cwght%5D.ttf"
+  },
+  {
+    "font": "Oswald",
+    "cyrillic": true,
+    "armenian": false,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/oswald/Oswald%5Bwght%5D.ttf"
+  },
+  {
+    "font": "RobotoCondensed",
+    "cyrillic": true,
+    "armenian": false,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/robotocondensed/RobotoCondensed%5Bwght%5D.ttf"
+  },
+  {
+    "font": "NotoSansArmenian",
+    "cyrillic": false,
+    "armenian": true,
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosansarmenian/NotoSansArmenian%5Bwdth%2Cwght%5D.ttf"
+  }
+]
