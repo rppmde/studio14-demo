@@ -3733,3 +3733,16 @@ body {
 .mobile-drawer__col a[aria-current="page"] {
   color: #111111 !important;
 }
+
+/* Studio 14 v47: editorial layout adjustments */
+.home-location strong,.location-address strong{font-weight:600;letter-spacing:.005em}
+.tattoo-booking-path__head{display:flex;flex-direction:column;align-items:flex-start;gap:12px;margin-bottom:30px}
+.tattoo-booking-path__head .eyebrow{order:2}
+.tattoo-booking-path__head .display-title{order:1;margin:0;max-width:100%}
+.story-photo-archive{display:grid;grid-template-columns:1.35fr 1fr;gap:12px;margin-top:clamp(28px,4vw,55px)}
+.story-photo-archive figure{margin:0;min-width:0;overflow:hidden}
+.story-photo-archive img{display:block;width:100%;height:clamp(240px,27vw,460px);object-fit:cover}
+.story-photo-archive figure:nth-child(2n) img{height:clamp(240px,23vw,390px)}
+.story-photo-archive figcaption{padding:10px 0;color:var(--stone);font-size:13px;letter-spacing:.025em}
+@media(max-width:700px){.story-photo-archive{grid-template-columns:1fr 1fr;gap:8px}.story-photo-archive img,.story-photo-archive figure:nth-child(2n) img{height:clamp(190px,42vw,320px)}.story-photo-archive figcaption{font-size:12px}.tattoo-booking-path__head{gap:10px}}
+@media(max-width:420px){.story-photo-archive{grid-template-columns:1fr}.story-photo-archive img,.story-photo-archive figure:nth-child(2n) img{height:auto;max-height:390px;object-fit:cover}}
