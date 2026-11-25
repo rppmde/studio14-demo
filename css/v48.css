@@ -1,0 +1,4 @@
+/* v48: lighter address and title-first booking introduction. */
+.home-location strong,.location-address strong{font-weight:500!important;line-height:1.15}
+.tattoo-booking-path__head{grid-template-columns:minmax(0,1fr);align-items:start;gap:10px}
+.tattoo-booking-path__head .display-title{margin:0}
